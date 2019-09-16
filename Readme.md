@@ -69,7 +69,11 @@
         |-Analyzing implicit relations
         |-Calculator-active practice
     |--Parametric equations, polar coordinates, and vector-valued functions
-        |-
+        |-Parametric equations intro
+        |-Second derivatives of parametric equations
+        |-Vector-valued functions
+        |-Planar motion
+        |-Polar functions
   |--
   |--
 ```
