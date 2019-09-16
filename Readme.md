@@ -46,9 +46,30 @@
         |-Disguised derivatives
         |-Logarithmic differentiation
     |--Applications of derivatives
-        |-
+        |-Meaning of the derivative in context
+        |-Straight-line motion
+        |-Non-motion applications of derivatives
+        |-Introduction to related rates
+        |-Solving related rates problems
+        |-Approximation with local linearity
+        |-L’Hôpital’s rule
+        |-L’Hôpital’s rule: composite exponential function
     |--Analyzing functions
+        |-Mean value theorem
+        |-Extreme value theorem and critical points
+        |-Intervals on which a function is increasing or decreasing
+        |-Relative (local) extrema
+        |-Absolute (global) extrema
+        |-Concavity and inflection points intro
+        |-Analyzing concavity and inflection points
+        |-Second derivative test
+        |-Sketching curves
+        |-Connecting f, f', and f''
+        |-Solving optimization problems
+        |-Analyzing implicit relations
+        |-Calculator-active practice
     |--Parametric equations, polar coordinates, and vector-valued functions
+        |-
   |--
   |--
 ```
