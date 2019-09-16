@@ -74,6 +74,4 @@
         |-Vector-valued functions
         |-Planar motion
         |-Polar functions
-  |--
-  |--
 ```
