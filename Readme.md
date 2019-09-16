@@ -7,6 +7,8 @@
     |--Derivatives: definition and basic rules
     |--Derivatives: chain rule and other advanced topics
     |--Applications of derivatives
+    |--Analyzing functions
+    |--Parametric equations, polar coordinates, and vector-valued functions
   |--
   |--
 ```
