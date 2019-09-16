@@ -34,8 +34,19 @@
         |-Quotient rule
         |-Derivatives of tan(x), cot(x), sec(x), and csc(x)    
     |--Derivatives: chain rule and other advanced topics
-        |-
+        |-Chain rule
+        |-More chain rule practice
+        |-Implicit differentiation
+        |-Implicit differentiation (advanced examples)
+        |-Differentiating inverse functions
+        |-Derivatives of inverse trigonometric functions
+        |-Strategy in differentiating functions
+        |-Differentiation using multiple rules
+        |-Second derivatives
+        |-Disguised derivatives
+        |-Logarithmic differentiation
     |--Applications of derivatives
+        |-
     |--Analyzing functions
     |--Parametric equations, polar coordinates, and vector-valued functions
   |--
