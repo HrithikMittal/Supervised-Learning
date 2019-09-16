@@ -1,4 +1,4 @@
-<h1 style="center>Suervised Learning</h1>
+<h1 style="center">Suervised Learning</h1>
 
 ```
 |-Supervised Learning
